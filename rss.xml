@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Iowa Jeeper]]></title>
         <description><![CDATA[Iowa Jeeper]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/iowajeeper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 21:35:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 21:48:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iowajeeper/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1741d75e-a577-49c6-811f-238811822a33.jpg">]]></description>
-            <link>undefined6a6139e4-c1dc-432d-9098-dc909ec0e4de/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1acf3fd4-28ca-4c66-84b7-b6e8a37dfd8a.jpg">]]></description>
+            <link>https://thegrid.ai/iowajeeper/6a6139e4-c1dc-432d-9098-dc909ec0e4de/index.html</link>
             <guid isPermaLink="false">6a6139e4-c1dc-432d-9098-dc909ec0e4de</guid>
-            <pubDate>Sat, 16 Jan 2016 21:35:38 GMT</pubDate>
+            <pubDate>Sat, 16 Jan 2016 21:48:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
